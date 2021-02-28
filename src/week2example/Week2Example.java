@@ -17,7 +17,7 @@ public class Week2Example {
     public static void main(String[] args) 
     {
         //array store 5 students details
-        Student[] list = new Student[4]; // array of object declaration
+        Student[] list = new Student[5]; // array of object declaration
         Student s1= new Student();
         s1.setName("John");
         s1.setAge(21);
